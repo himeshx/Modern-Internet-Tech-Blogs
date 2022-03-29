@@ -7,6 +7,6 @@
 
 [Introduction to Python Strings Replace Method](https://dsckiit.slab.com/posts/introduction-to-python-strings-replace-method-hjb5fv99)
 
-[What is JavaScript and Why is it used for](https://dsckiit.slab.com/posts/what-is-java-script-why-is-it-used-for-qltwk24p)
+[What is JavaScript and Why is it used for?](https://dsckiit.slab.com/posts/what-is-java-script-why-is-it-used-for-qltwk24p)
 
 [What is a Plugin?](https://dsckiit.slab.com/posts/what-is-a-plugin-vkv8kcpq)
