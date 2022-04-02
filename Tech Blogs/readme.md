@@ -10,3 +10,5 @@
 [What is JavaScript and Why is it used for](https://dsckiit.slab.com/posts/what-is-java-script-why-is-it-used-for-qltwk24p)
 
 [What is a Plugin?](https://dsckiit.slab.com/posts/what-is-a-plugin-vkv8kcpq)
+
+[What are Extensions?](https://dsckiit.slab.com/posts/what-are-extensions-2d8xmivb)
