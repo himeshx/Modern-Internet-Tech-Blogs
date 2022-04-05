@@ -13,4 +13,4 @@
 
 [What are Extensions?](https://dsckiit.slab.com/posts/what-are-extensions-2d8xmivb)
 
-[Cryptography for Begineers](https://dsckiit.slab.com/posts/cryptography-for-beginners-yy77vm0r) 
+[Cryptography for Beginners](https://dsckiit.slab.com/posts/cryptography-for-beginners-yy77vm0r) 
