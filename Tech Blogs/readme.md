@@ -12,3 +12,5 @@
 [What is a Plugin?](https://dsckiit.slab.com/posts/what-is-a-plugin-vkv8kcpq)
 
 [What are Extensions?](https://dsckiit.slab.com/posts/what-are-extensions-2d8xmivb)
+
+[Cryptography for Beginners](https://dsckiit.slab.com/posts/cryptography-for-beginners-yy77vm0r)
